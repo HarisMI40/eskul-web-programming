@@ -1,0 +1,71 @@
+body{
+    background-color: black;
+    color : white;
+    scroll-behavior: smooth;
+}
+
+.judul {
+    text-align: center;
+    font-size: 80px;
+    margin : 0;
+}
+
+.judul-quotes {
+    text-align: center;
+}
+
+.hero-image{
+    width: 100%;
+    margin : 20px 0;
+}
+
+
+.paragraf {
+    padding : 20px
+}
+
+.quotes{
+    margin : 40px 0;
+    background-color: white;
+    color : black;
+    padding : 20px 0;
+    text-align: center;
+    font-size: 50px;
+}
+
+.perjalanan-karir {
+    padding : 10px;
+}
+
+.sub-judul
+{
+    font-size: 50px;
+    margin-bottom : 20px;
+}
+
+a{
+    color : blue;
+    text-decoration: none;
+}
+
+.informasi {
+    margin-top: 20px;
+}
+
+hr{
+    margin : 20px 0;
+}
+
+.footer{
+    margin-top : 40px;
+    padding : 20px;
+    /* background-color: brown; */
+}
+
+.footer p{
+    text-align: center;
+}
+
+*{
+    margin: 0;
+}
